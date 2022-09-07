@@ -1,0 +1,45 @@
+.heading{
+    width: 100%;
+    text-align: center;
+}
+
+.heading h3{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading button{
+    float: right;
+    border: 2px dashed paleturquoise;
+
+}
+
+.big_image{
+    width: 100%;
+}
+
+h4{
+    background-color: aquamarine;
+    line-height: 2;
+    margin: 0px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+
+video{
+
+    background-image: url('https://i.pinimg.com/originals/aa/54/60/aa546006611268cb6c574ebfa4ca1d9a.png');
+    background-position: center;
+    padding: 70px;
+    
+}
